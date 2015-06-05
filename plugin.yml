@@ -1,0 +1,16 @@
+name: CreeperBomb
+
+author: Mike Trentman
+
+main: creeperbomb.CreeperBomb
+
+commands:
+    creeperbomb:
+        description: Bomb another player with creepers, bomb yourself or bomb everyone!
+        usage: creeperbomb <target>
+    creeperbomb_admin:
+        description: Your description goes here
+        usage: Usage of the command goes here
+
+version: 0.1
+
